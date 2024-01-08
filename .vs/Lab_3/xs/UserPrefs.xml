@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{B7958CC8-3F29-452B-96EE-B2AFF60623C4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../jj/GlobalUsings.cs">
+    <Files>
+      <File FileName="Program.cs" Line="109" Column="2" />
+      <File FileName="../jj/UnitTest1.cs" Line="3" Column="1" />
+      <File FileName="../jj/GlobalUsings.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab_3" expanded="True">
+            <Node name="jj" expanded="True">
+              <Node name="GlobalUsings.cs" selected="True" />
+            </Node>
+            <Node name="Lab_3" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab_3" expanded="True">
+            <Node name="jj" expanded="True">
+              <Node name="GlobalUsings.cs" selected="True" />
+            </Node>
+            <Node name="Lab_3" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Lab_3" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Lab_3" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lab__3 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
